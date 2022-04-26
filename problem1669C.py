@@ -1,3 +1,4 @@
+# problem: https://codeforces.com/problemset/problem/1669/C
 t = int(input())
 
 
